@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "ĐÁNH GIÁ GIẢNG VIÊN DTU",
+  "version": "1.0",
+  "description": "Công cụ hỗ trợ đánh giá giảng viên một cách nhanh chóng và thuận tiện.",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "assets/icon.png",
+      "48": "assets/icon.png",
+      "128": "assets/icon.png"
+    }
+  },
+  "host_permissions": ["<all_urls>"]
+}
