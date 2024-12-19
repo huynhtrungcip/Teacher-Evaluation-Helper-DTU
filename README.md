@@ -27,7 +27,7 @@ Simplify and streamline the process of evaluating teachers at DTU with this ligh
 
 1. Clone the repository or download the ZIP file.
    ```bash
-   git clone https://github.com/yourusername/teacher-evaluation-helper-dtu.git
+   git clone https://github.com/huynhtrungcip/teacher-evaluation-helper-dtu.git
    ```
 2. Open **Google Chrome** and go to `chrome://extensions`.
 3. Enable **Developer Mode** (top-right corner).
